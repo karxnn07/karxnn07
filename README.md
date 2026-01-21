@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hi 👋, I'm Karan Kumar
 
-<!--
-**karxnn07/karxnn07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Aspiring Software Developer**  
+🎓 B.Tech Student  
+💻 Passionate about coding, problem-solving, and building real-world projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🌱 Currently learning **Python**, **Data Structures & Algorithms**, and **Web Development**
+- 🧠 Strengthening fundamentals in **programming and logic building**
+- 🔭 Exploring **ASP.NET Core MVC** and backend development
+- 📈 Focused on consistent learning and project-based growth
+- 🎯 Goal: Become a skilled **Software Developer**
+
+---
+
+## 🛠️ Skills & Technologies
+
+### 💻 Programming Languages
+- Python  
+- C (Basics)
+
+### 🌐 Web Development
+- HTML  
+- CSS  
+- JavaScript (Basics)  
+- ASP.NET Core MVC (Learning)
+
+### 📊 Tools & Platforms
+- Git & GitHub  
+- VS Code  
+- Jupyter Notebook  
+- Anaconda  
+
+### 🧠 Core Concepts
+- Data Structures & Algorithms (Beginner)  
+- Object-Oriented Programming  
+- Problem Solving  
+
+---
+
+## 📌 What I'm Currently Working On
+
+- 📖 Practicing Python daily  
+- 🧩 Solving beginner to intermediate coding problems  
+- 🛠️ Building small projects to improve logic  
+- 🌐 Learning full-stack web development fundamentals  
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: *www.linkedin.com/in/karan-singh-b23548293*  
+- 📧 Email: *karxnn007@gmail.com*  
+
+---
+
+⭐ **Feel free to explore my repositories and connect with me!**  
+I'm always open to learning, collaboration, and new opportunities 🚀
