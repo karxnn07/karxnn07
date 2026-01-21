@@ -6,7 +6,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 🙋‍♂️ About Me
 
 - 🌱 Currently learning **Python**, **Data Structures & Algorithms**, and **Web Development**
 - 🧠 Strengthening fundamentals in **programming and logic building**
@@ -19,29 +19,29 @@
 ## 🛠️ Skills & Technologies
 
 ### 💻 Programming Languages
-- Python  
-- C (Basics)
+- 🐍 Python  
+- 💡 C (Basics)
 
 ### 🌐 Web Development
-- HTML  
-- CSS  
-- JavaScript (Basics)  
-- ASP.NET Core MVC (Learning)
+- 🌐 HTML  
+- 🎨 CSS  
+- ⚡ JavaScript (Basics)  
+- 🧩 ASP.NET Core MVC (Learning)
 
 ### 📊 Tools & Platforms
-- Git & GitHub  
-- VS Code  
-- Jupyter Notebook  
-- Anaconda  
+- 🔧 Git & GitHub  
+- 🖥️ VS Code  
+- 📓 Jupyter Notebook  
+- 🐍 Anaconda  
 
 ### 🧠 Core Concepts
-- Data Structures & Algorithms (Beginner)  
-- Object-Oriented Programming  
-- Problem Solving  
+- 🧮 Data Structures & Algorithms (Beginner)  
+- 📦 Object-Oriented Programming  
+- 🧠 Problem Solving  
 
 ---
 
-## 📌 What I'm Currently Working On
+## 🚧 What I'm Currently Working On
 
 - 📖 Practicing Python daily  
 - 🧩 Solving beginner to intermediate coding problems  
@@ -50,12 +50,22 @@
 
 ---
 
+## 📂 Projects
+
+- 🔹 Beginner Python projects  
+- 🔹 Web development practice projects  
+- 🔹 DSA problem-solving repositories  
+
+*(More projects coming soon 🚀)*
+
+---
+
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: *www.linkedin.com/in/karan-singh-b23548293*  
-- 📧 Email: *karxnn007@gmail.com*  
+- 📧 Email: *karxnn007@gmail.com*
 
 ---
 
 ⭐ **Feel free to explore my repositories and connect with me!**  
-I'm always open to learning, collaboration, and new opportunities 🚀
+🤝 Always open to learning, collaboration, and new opportunities 🚀
