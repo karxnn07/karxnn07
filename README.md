@@ -1,71 +1,28 @@
-# Hi 👋, I'm Karan Kumar
+## 👨‍💻 About Me
 
-🚀 **Aspiring Software Developer**  
-🎓 B.Tech Student  
-💻 Passionate about coding, problem-solving, and building real-world projects  
+Hi there! I'm **Karan Singh**, a final-year B.Tech Computer Science student and an aspiring Software Developer from India 🇮🇳.
 
----
+💻 Passionate about building scalable software and solving real-world problems through code.
 
-## 🙋‍♂️ About Me
+🌱 Currently learning **Java Backend Development**, **Spring Boot**, and strengthening my **Data Structures & Algorithms** skills.
 
-- 🌱 Currently learning **Python**, **Data Structures & Algorithms**, and **Web Development**
-- 🧠 Strengthening fundamentals in **programming and logic building**
-- 🔭 Exploring **ASP.NET Core MVC** and backend development
-- 📈 Focused on consistent learning and project-based growth
-- 🎯 Goal: Become a skilled **Software Developer**
+🚀 I enjoy turning ideas into practical applications and continuously improving my problem-solving abilities.
 
----
+🎯 My goal is to secure a **Software Development Internship** where I can learn from experienced engineers, contribute to impactful projects, and grow as a developer.
 
-## 🛠️ Skills & Technologies
+## 🛠️ Tech Stack
 
-### 💻 Programming Languages
-- 🐍 Python  
-- 💡 C (Basics)
+☕ Java • 🌱 Spring Boot • 🗄️ MySQL • 🔗 REST APIs  
+📚 Data Structures & Algorithms • 🧠 Object-Oriented Programming  
+🌿 Git & GitHub • 💻 VS Code
 
-### 🌐 Web Development
-- 🌐 HTML  
-- 🎨 CSS  
-- ⚡ JavaScript (Basics)  
-- 🧩 ASP.NET Core MVC (Learning)
+## 📈 Currently Working On
 
-### 📊 Tools & Platforms
-- 🔧 Git & GitHub  
-- 🖥️ VS Code  
-- 📓 Jupyter Notebook  
-- 🐍 Anaconda  
+- 📚 Library Management System
+- 🚀 Backend Development with Spring Boot
+- 🧩 Solving DSA problems on LeetCode
+- 💡 Building projects to strengthen my portfolio
 
-### 🧠 Core Concepts
-- 🧮 Data Structures & Algorithms (Beginner)  
-- 📦 Object-Oriented Programming  
-- 🧠 Problem Solving  
+## 🌟 Fun Fact
 
----
-
-## 🚧 What I'm Currently Working On
-
-- 📖 Practicing Python daily  
-- 🧩 Solving beginner to intermediate coding problems  
-- 🛠️ Building small projects to improve logic  
-- 🌐 Learning full-stack web development fundamentals  
-
----
-
-## 📂 Projects
-
-- 🔹 Beginner Python projects  
-- 🔹 Web development practice projects  
-- 🔹 DSA problem-solving repositories  
-
-*(More projects coming soon 🚀)*
-
----
-
-## 📫 Connect With Me
-
-- 💼 LinkedIn: *www.linkedin.com/in/karan-singh-b23548293*  
-- 📧 Email: *karxnn007@gmail.com*
-
----
-
-⭐ **Feel free to explore my repositories and connect with me!**  
-🤝 Always open to learning, collaboration, and new opportunities 🚀
+> "Every bug is a lesson, and every project is a step toward becoming a better developer." 🚀
