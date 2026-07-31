@@ -1,6 +1,6 @@
 ## 👨‍💻 About Me
 
-Hi there! I'm **Karan Singh**, a final-year B.Tech Computer Science student and an aspiring Software Developer from India 🇮🇳.
+Hi there! I'm **Karan Kumar**, a final-year B.Tech Computer Science student and an aspiring Software Developer from India 🇮🇳.
 
 💻 Passionate about building scalable software and solving real-world problems through code.
 
