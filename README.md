@@ -8,7 +8,7 @@ Hi there! I'm **Karan Kumar**, a final-year B.Tech Computer Science student and 
 
 🚀 I enjoy turning ideas into practical applications and continuously improving my problem-solving abilities.
 
-🎯 My goal is to secure a **Software Development Internship** where I can learn from experienced engineers, contribute to impactful projects, and grow as a developer.
+🎯 My goal is to secure a **Software Development Internship/Job** where I can learn from experienced engineers, contribute to impactful projects, and grow as a developer.
 
 ## 🛠️ Tech Stack
 
